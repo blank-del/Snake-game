@@ -22,6 +22,11 @@ mount c ~/folder_name
 ```bash
 c:
 ```
+- Install MASM611 by running this command
+```bash
+DISK1\SETUP
+```
+ and then following the setup with default values and options
 - Export the paths to path variable so that we can access the `ml` and `link`
 ```bash
 set PATH=c:\MASM611\bin;c:\MASM611\binr;%PATH%
